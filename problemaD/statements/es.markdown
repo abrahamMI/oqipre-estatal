@@ -38,6 +38,7 @@ Un numero entero indicando el numero de la primer casilla *rainbow* que se encon
 Como se ve en la imagen el canguro salta de 3 en 3 y marca la casilla 6 al segundo salto.
 EL mapache salta de dos en dos y marca la casilla 6 al tercer salto.
 El tlacuache salta de 6 en 6 y marca la casilla 6 al primer salto. 
+||end
 
 ----------
 
@@ -51,15 +52,15 @@ El tlacuache salta de 6 en 6 y marca la casilla 6 al primer salto.
 ### Para 15% de los casos
 
 * $N = 2$
-* $1 \le S_i \le 1000$
+* $ 1 \le \prod{S_i} \le 10^9$
 
 ### Para 30% de los casos
 
 * $N = 3$
-* $1 \le S_i \le 1000$
+* $ 1 \le \prod{S_i} \le 10^9$
 
 ### Para 40% de los casos
 
 * $N = 5$
-* $1 \le S_i \le 1000$
+* $1 \le \prod{S_i} \le 10^9$
 * Muy pocos animales se inscribieron este año :(
